@@ -6,7 +6,7 @@
       <mapping pattern=".coveragerc" type="PLAIN_TEXT" />
       <mapping ext="dm" type="PLAIN_TEXT" />
       <mapping ext="doctree" type="PLAIN_TEXT" />
-      <mapping ext="ini" type="PLAIN_TEXT" />
+      <removed_mapping ext="ini" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
