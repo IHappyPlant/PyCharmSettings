@@ -5,6 +5,7 @@
       <mapping ext="mp4" type="AUTO_DETECTED" />
       <mapping ext="xlsm" type="AUTO_DETECTED" />
       <mapping pattern=".coverage" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern=".coveragerc" type="PLAIN_TEXT" />
       <mapping ext="npy" type="PLAIN_TEXT" />
       <mapping ext="dm" type="PLAIN_TEXT" />
