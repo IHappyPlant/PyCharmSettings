@@ -1,0 +1,53 @@
+<application>
+  <component name="CodeStyleSettingsManager">
+    <option name="PER_PROJECT_SETTINGS">
+      <value version="173">
+        <option name="RIGHT_MARGIN" value="79" />
+        <CoffeeScriptCodeStyleSettings version="0">
+          <option name="SPACE_WITHIN_OBJECT_BRACES" value="true" />
+        </CoffeeScriptCodeStyleSettings>
+        <JSCodeStyleSettings version="0">
+          <option name="USE_SEMICOLON_AFTER_STATEMENT" value="false" />
+          <option name="FORCE_SEMICOLON_STYLE" value="true" />
+          <option name="USE_DOUBLE_QUOTES" value="false" />
+          <option name="FORCE_QUOTE_STYlE" value="true" />
+          <option name="ENFORCE_TRAILING_COMMA" value="Remove" />
+          <option name="SPACES_WITHIN_OBJECT_LITERAL_BRACES" value="true" />
+          <option name="SPACES_WITHIN_IMPORTS" value="true" />
+          <option name="IMPORT_SORT_MODULE_NAME" value="true" />
+        </JSCodeStyleSettings>
+        <Python>
+          <option name="NEW_LINE_AFTER_COLON" value="true" />
+          <option name="OPTIMIZE_IMPORTS_SORT_NAMES_IN_FROM_IMPORTS" value="true" />
+          <option name="OPTIMIZE_IMPORTS_JOIN_FROM_IMPORTS_WITH_SAME_SOURCE" value="true" />
+          <option name="OPTIMIZE_IMPORTS_CASE_INSENSITIVE_ORDER" value="true" />
+          <option name="FROM_IMPORT_NEW_LINE_AFTER_LEFT_PARENTHESIS" value="true" />
+          <option name="FROM_IMPORT_PARENTHESES_FORCE_IF_MULTILINE" value="true" />
+        </Python>
+        <codeStyleSettings language="HTML">
+          <indentOptions>
+            <option name="INDENT_SIZE" value="2" />
+            <option name="CONTINUATION_INDENT_SIZE" value="4" />
+            <option name="TAB_SIZE" value="2" />
+          </indentOptions>
+        </codeStyleSettings>
+        <codeStyleSettings language="JSON">
+          <indentOptions>
+            <option name="INDENT_SIZE" value="4" />
+            <option name="CONTINUATION_INDENT_SIZE" value="4" />
+          </indentOptions>
+        </codeStyleSettings>
+        <codeStyleSettings language="JavaScript">
+          <indentOptions>
+            <option name="INDENT_SIZE" value="2" />
+            <option name="TAB_SIZE" value="2" />
+          </indentOptions>
+        </codeStyleSettings>
+        <codeStyleSettings language="Python">
+          <option name="SOFT_MARGINS" value="71" />
+        </codeStyleSettings>
+      </value>
+    </option>
+    <option name="PREFERRED_PROJECT_CODE_STYLE" value="Default" />
+  </component>
+</application>
